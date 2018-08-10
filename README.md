@@ -54,7 +54,6 @@ Copy this link to your adblocker .
 - __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
 - __any device:__ compatible with all devices, regardless of OS.
 - __blockings:__ strictly blocks `advertisements, malwares, spams, statistics & trackers` on both web browsing and applications.
-- __multiple formats:__ different `variants` for different `devices`.
 - __speed you need:__ reduces page loading time upto `half` of its actual time!
 - __privacy:__ with all these annoyances blocking, it also `increases` privacy.
 - __saves expense:__ greatly decreases data consumption `saving` expense.
