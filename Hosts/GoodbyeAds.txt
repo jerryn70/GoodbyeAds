@@ -1,0 +1,49 @@
+# Jerryn70 Ultimate Adblock list
+# Ultimate Blocking of Mobile ad providers and Analytics providers
+#
+#Contribute:
+#Create an issue at : https://github.com/jerryn70/Ultimate-AdBlock
+#
+# Last Updated On:
+# 5-08-2018 Now hosted on GitHub
+#
+# Contribution by:
+# Jerryn70 (XDA Senior Member)
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
+
+127.0.0.1 ads.mopub.com
+127.0.0.1 ads.nexage.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 stats.appsflyer.com
+127.0.0.1 abroad-ad.kingsoft-office-service.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 movip.wps.com
+127.0.0.1 wpsconfig4svr.elasticbeanstalk.com
+127.0.0.1 googleadservices.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 api.ampiri.com
+127.0.0.1 data.flurry.com
+127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 aax-us--east.amazon-adsystem.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 images.startappservice.com
+127.0.0.1 mpx.mopub.com
+127.0.0.1 sift-campaign-creatives.s3.amazonaws.com
+127.0.0.1 appnext.hs.llnwd.net
+127.0.0.1 admin.appnext.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 pogger.cloudmobi.net
+127.0.0.1 soma.smaata.net
+127.0.0.1 sm-campaign.s3-us-west-2.amazonaws.com
+127.0.0.1 api.cloudmobi.net
+
