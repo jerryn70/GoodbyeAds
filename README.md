@@ -44,7 +44,7 @@
 
 ## Goodbye Ads Host file Link
 
-`https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/GoodbyeAds.txt`
+`https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt`
 
 Copy this link to your adblocker .
  
