@@ -40,7 +40,7 @@
     </div>
 
 ## Special Note for Users
- We block `graph.facebook.com`. Because this host provides ads to most of the apps. As we are designed for blocking Mobile application ads,there is no chance of removing this entry. So while using facebook, some of its content may get broken, the chances are 50-50 (Personally I didn't faced any issues). So if you dont what that to happen, then just whitelist `graph.facebook.com` in your adblocker. But remember, by doing this some of the apps/websites will display ads. <strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
+ We block `graph.facebook.com`. Because this host provides ads to most of the apps. As we are designed for blocking Mobile application ads,there is no chance of removing this entry. So while using facebook app, some of its content may get broken, (no problem with lite app and web browsing) the chances are 50-50 (Personally I didn't faced any issues). So if you dont what that to happen, then just whitelist `graph.facebook.com` in your adblocker. But remember, by doing this some of the apps/websites will display ads. <strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
