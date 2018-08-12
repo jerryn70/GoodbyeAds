@@ -3,9 +3,12 @@
 <h1 align="center">Goodbye Ads - W🌎rld of Ads Free Internet</h1> 
 
 <div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-1.0-blue.svg?longCache=true&style=flat-square"
-      alt="version" />
+  <!-- Hosts -->
+    <img src="https://img.shields.io/badge/Hosts-37k-ff69b4.svg?longCache=true&style=flat-square"
+      alt="Hosts" />
+  <!-- Size -->
+    <img src="https://img.shields.io/badge/Size-969kb-blue.svg?longCache=true&style=flat-square"
+      alt="size" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-Aug 10, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
