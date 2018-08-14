@@ -39,7 +39,8 @@
  
 
 ## Special Note for Users
- We block `graph.facebook.com`. Because this host provides most of the ads. So you should whitelist `facebook main app` in your adblocker, otherwise fb will not work (no problem with fb lite app)<strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
+
+ We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>So you should whitelist `facebook main app` in your adblocker, </strong>otherwise fb app will not work (no problem with fb lite app)<strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
@@ -47,10 +48,12 @@
 
 Copy this link to your adblocker .
 
-##Recommended Whitelist
--__Facebook main app
+## Recommended Whitelist
+
+-__Facebook main app__
  
 ## Features
+
 - __small in size:__ The complete host list size is less then 1mb.
 - __designed for mobile phones:__ Goodbye ads is specially designed for blocking ads in apps and mobile websites.
 - __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
@@ -71,7 +74,13 @@ Copy this link to your adblocker .
 - __non-rooted android:__ `DNS66` or `BLOKADA`
 - __windows:__ `Hostsman`
 
-##Source
+## Source
+`Mobile-Hosts`
+`YHosts`
+`GoodbyeAds`
+`Jiffxtremeblock`
+`Malwaredomainlist`
+`Userreports`
 
 
 ## Disclaimer
