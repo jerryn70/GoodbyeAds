@@ -34,22 +34,21 @@
 </div>
 
 <div align="center">
-  <sub>The Best Apps & Website Ad Protection! Built with ❤︎ by
-    <strong>Jerry (Jerryn70)</strong>
-    </div>
+  <sub>The Best Apps & Website Ad Protection!</div>
   </br>
- <div align="center">
-       <strong>Make In India</strong>.
-    </div>
+ 
 
 ## Special Note for Users
- We block `graph.facebook.com`. Because this host provides ads to most of the apps. As we are designed for blocking Mobile application ads,there is no chance of removing this entry. So while using facebook app, some of its content may get broken, (no problem with lite app and web browsing) the chances are 50-50 (Personally I didn't faced any issues). So if you dont what that to happen, then just whitelist `graph.facebook.com` in your adblocker. But remember, by doing this some of the apps/websites will display ads. <strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
+ We block `graph.facebook.com`. Because this host provides most of the ads. So you should whitelist `facebook main app` in your adblocker, otherwise fb will not work (no problem with fb lite app)<strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
 `https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt`
 
 Copy this link to your adblocker .
+
+##Recommended Whitelist
+-__Facebook main app
  
 ## Features
 - __small in size:__ The complete host list size is less then 1mb.
@@ -71,6 +70,9 @@ Copy this link to your adblocker .
 - __rooted android:__ `Adaway`
 - __non-rooted android:__ `DNS66` or `BLOKADA`
 - __windows:__ `Hostsman`
+
+##Source
+
 
 ## Disclaimer
 
