@@ -40,17 +40,17 @@
 
 ## Special Note for Users
 
- We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>So you should whitelist `facebook main app` in your adblocker, </strong>otherwise fb app will not work (no problem with fb lite app)<strong> If you are facing any problems feel free to contact us through `XDA` or `Telegram`.</strong>
+ We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>`So you should whitelist facebook main app in your adblocker,` </strong>otherwise fb app will not work (no problem with fb lite app)<strong> `If you are facing any problems feel free to contact us through XDA or Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
-`https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt`
+<strong>`https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt`</strong>
 
 Copy this link to your adblocker .
 
 ## Recommended Whitelist
 
--__Facebook main app__
+- __Facebook main app__
  
 ## Features
 
