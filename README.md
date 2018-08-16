@@ -4,13 +4,13 @@
 
 <div align="center">
   <!-- Hosts -->
-    <img src="https://img.shields.io/badge/Hosts-37k-ff69b4.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Hosts-38k-ff69b4.svg?longCache=true&style=flat-square"
       alt="Hosts" />
   <!-- Size -->
-    <img src="https://img.shields.io/badge/Size-969kb-blue.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Size-989kb-blue.svg?longCache=true&style=flat-square"
       alt="size" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Aug 10, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Aug 16, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
