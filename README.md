@@ -81,6 +81,7 @@ Copy this link to your adblocker .
 `Jiffxtremeblock`
 `Malwaredomainlist`
 `Userreports`
+`Energized spark`
 
 
 ## Disclaimer
