@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Hosts-70k-ff69b4.svg?longCache=true&style=flat-square"
       alt="Hosts" />
   <!-- Size -->
-    <img src="https://img.shields.io/badge/Size-989kb-blue.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Size-1.82mb-blue.svg?longCache=true&style=flat-square"
       alt="size" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Sep 02, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Sep 04, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -54,7 +54,7 @@ Copy this link to your adblocker .
  
 ## Features
 
-- __small in size:__ The complete host list size is less then 1mb.
+- __small in size:__ The complete host list size is less then 2mb.
 - __designed for mobile phones:__ Goodbye ads is specially designed for blocking ads in apps and mobile websites.
 - __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
 - __any device:__ compatible with all devices, regardless of OS.
