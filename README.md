@@ -74,14 +74,9 @@ Copy this link to your adblocker .
 - __non-rooted android:__ `DNS66` or `BLOKADA`
 - __windows:__ `Hostsman`
 
-## Source
-`Mobile-Hosts`
-`YHosts`
-`GoodbyeAds`
-`Jiffxtremeblock`
-`Malwaredomainlist`
-`Userreports`
-`Energized spark`
+## Merged Source
+
+Mobile-Hosts, YHosts, GoodbyeAds, Jiffxtremeblock, Userreports, Ador Energized, Adaway, Adguard Ads & Spyware, Easylist Adservers, EasyPrivacy, add.207Net, add.Dead, add.Risk, add.Spam, LightSwitch Extended, MobileAdTrackers, MVPS.ORG, Steven Black Hosts, Someonewhocares, Streaming Ads, UncheckyAds, PGL YoYo.org, Zeus Tracker, URLVIR and Malwaredomainlist.
 
 
 ## Disclaimer
