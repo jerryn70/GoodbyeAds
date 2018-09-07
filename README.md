@@ -62,6 +62,7 @@ Copy this link to your adblocker .
  
 ## Features
 
+- __Half Host - Host Domain:__ The list contains half hosts,all the bad stuffs blocked with `0.0.0.0` and remaining contains Half Domains, all the bad stuff blocked with `Domain Name`.
 - __small in size:__ The complete host list size is less then 2mb.
 - __designed for mobile phones:__ Goodbye ads is specially designed for blocking ads in apps and mobile websites.
 - __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
