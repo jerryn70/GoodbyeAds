@@ -4,13 +4,13 @@
 
 <div align="center">
   <!-- Hosts -->
-    <img src="https://img.shields.io/badge/Hosts-70k-ff69b4.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Hosts-54k-ff69b4.svg?longCache=true&style=flat-square"
       alt="Hosts" />
   <!-- Size -->
-    <img src="https://img.shields.io/badge/Size-1.82mb-blue.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Size-1.43mb-blue.svg?longCache=true&style=flat-square"
       alt="size" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Sep 17, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Sep 22, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -18,14 +18,7 @@
 </div>
 
 <div align="center">
-  <strong>Advanced Protection of Apps & Websites from Ads</strong>
-</div>
-
-<div align="center">
-  <sub>Using</div>
-
-<div align="center">
-  <strong>HALF HOST - HALF DOMAIN TECHNOLOGY</strong>
+  <strong>Advanced Protection for Apps & Websites from Ads</strong>
 </div>
 
 
