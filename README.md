@@ -41,7 +41,7 @@
 
 ## Special Note for Users
 
- We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>`So you should whitelist facebook main app or whitelist graph.facebook.com in your adblocker,` </strong>otherwise fb app will not work (no problem with fb lite app)<strong> `If you are facing any problems feel free to contact us through XDA or Telegram`.</strong>
+ We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>`So you should whitelist facebook main app or whitelist graph.facebook.com in your adblocker,` </strong>otherwise fb app will not work (no problem with fb lite app and other facebook client apps)<strong> `If you are facing any problems feel free to contact us through XDA or Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
