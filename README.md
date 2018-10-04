@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Size-1.43mb-blue.svg?longCache=true&style=flat-square"
       alt="size" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Sep 22, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Oct 04, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
@@ -41,7 +41,7 @@
 
 ## Special Note for Users
 
- We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>`So you should whitelist facebook main app in your adblocker,` </strong>otherwise fb app will not work (no problem with fb lite app)<strong> `If you are facing any problems feel free to contact us through XDA or Telegram`.</strong>
+ We block<strong> `graph.facebook.com`</strong>. Because this host provides most of the ads. <strong>`So you should whitelist facebook main app or whitelist graph.facebook.com in your adblocker,` </strong>otherwise fb app will not work (no problem with fb lite app)<strong> `If you are facing any problems feel free to contact us through XDA or Telegram`.</strong>
 
 ## Goodbye Ads Host file Link
 
@@ -55,7 +55,7 @@ Copy this link to your adblocker .
  
 ## Features
 
-- __Half Host - Host Domain:__ The list contains half hosts,all the bad stuffs blocked with `0.0.0.0` and remaining contains Half Domains, all the bad stuff blocked with `Domain Name`.
+
 - __small in size:__ The complete host list size is less then 2mb.
 - __designed for mobile phones:__ Goodbye ads is specially designed for blocking ads in apps and mobile websites.
 - __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
