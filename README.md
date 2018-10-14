@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Size-1.43mb-blue.svg?longCache=true&style=flat-square"
       alt="size" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Oct 04, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Oct 14, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
