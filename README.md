@@ -31,6 +31,10 @@
     <a href="https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269">
       XDA
     </a>
+<span> | </span>
+    <a href="https://goodbyeads.weebly.com">
+      Website
+    </a>
   </h3>
 </div>
 
