@@ -31,10 +31,6 @@
     <a href="https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269">
       XDA
     </a>
-<span> | </span>
-    <a href="https://goodbyeads.weebly.com">
-      Website
-    </a>
   </h3>
 </div>
 
@@ -51,7 +47,11 @@
 
 <strong>`https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt`</strong>
 
-Copy this link to your adblocker .
+Mirror Link;
+
+<strong>`https://goodbyeads.weebly.com/uploads/1/2/2/1/122145164/goodbyeads.txt`</strong>
+
+Copy any of these  link to your ad blocker .
 
 ## Recommended Whitelist
 
