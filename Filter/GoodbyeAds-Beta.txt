@@ -8,6 +8,8 @@ GOODBYE ADS
 # Created by: Jerryn70 (XDA Senior Member)
 
 0.0.0.0 graph.facebook.com 
+0.0.0.0 audio2.spotify.com
+0.0.0.0 open.spotify.com
 0.0.0.0 srv2.xbext.com
 0.0.0.0 movip.wps.com  
 0.0.0.0 init.startappexchange.com
