@@ -1,3 +1,12 @@
+GOODBYE ADS
+#
+# Goodbye Ads is Specially Designed for Mobile Ad Protection.
+#
+# Github : https://github.com/jerryn70/GoodbyeAds
+# Telegram : https://t.me/GoodbyeAds
+# XDA : https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269
+# Created by: Jerryn70 (XDA Senior Member)
+
 0.0.0.0 graph.facebook.com 
 0.0.0.0 srv2.xbext.com
 0.0.0.0 movip.wps.com  
