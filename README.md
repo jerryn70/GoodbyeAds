@@ -89,7 +89,7 @@ Then press the refresh icon on the top and press the start button.
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 ```
 
-###Adaway
+### Adaway
 Open Adaway > go to Host Source > Click + button and then copy paste the below url.
 Then Click enable ad blocking from the home menu.
 ```
