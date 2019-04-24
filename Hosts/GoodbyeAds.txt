@@ -32093,7 +32093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recognified.net
 0.0.0.0 beaconbeta.schneidercorp.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
-0.0.0.0 app4cdn.moovitapp.com
+# 0.0.0.0 app4cdn.moovitapp.com # breaks moovit app https://github.com/jerryn70/GoodbyeAds/issues/16
 0.0.0.0 analytics6.snoobi.com
 0.0.0.0 touch.media-serving.com
 0.0.0.0 img.desipearl.com
@@ -41632,7 +41632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 ad3.linkbucks.com
 0.0.0.0 h53gn4xvok.kameleoon.eu
-0.0.0.0 secure.ogone.com
+# 0.0.0.0 secure.ogone.com # is part from payment service Ogane which is now Ingenico Payment Services https://github.com/jerryn70/GoodbyeAds/issues/f
 0.0.0.0 bg.fd-api.com
 0.0.0.0 sk.andrcool.com
 0.0.0.0 rcm-it.amazon.it
@@ -51913,7 +51913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a18208.actonsoftware.com
 0.0.0.0 sfmc-stag.urbanairship.com
 0.0.0.0 attr.appsflyer.com
-0.0.0.0 static.moovitapp.com
+# 0.0.0.0 static.moovitapp.com # breaks moovit app https://github.com/jerryn70/GoodbyeAds/issues/16
 0.0.0.0 56d72d133ae0421200fd03d6.tracker.adotmob.com
 0.0.0.0 mynavicorp-d.openx.net
 0.0.0.0 id.google.co.jp
@@ -54333,7 +54333,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oabcufwk.com
 0.0.0.0 whalesburg.com
 0.0.0.0 sleeper-sofa.dreamhoster.com
-0.0.0.0 api.rlje.net
+# 0.0.0.0 api.rlje.net # breaks AcornTV app (british version of netflix) https://github.com/jerryn70/GoodbyeAds/issues/22
 0.0.0.0 imagenen1.247realmedia.com
 0.0.0.0 ua1.hit.stat24.com
 0.0.0.0 cdn1.ipsosinteractive.com
@@ -76298,7 +76298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 redshell.io
 0.0.0.0 p232207.inclk.com
 0.0.0.0 static.imrworldwide.com
-0.0.0.0 updates.macrium.com
+# 0.0.0.0 updates.macrium.com # breaks Macrium Reflect updates https://github.com/jerryn70/GoodbyeAds/issues/21
 0.0.0.0 mediatrking.com
 0.0.0.0 tvbs.onesignal.com
 0.0.0.0 stats.hkijngy.me
@@ -80500,7 +80500,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uyznjuyfyjc.com
 0.0.0.0 cs.matildajaneclothing.com
 0.0.0.0 usllpic0-cf4eda9f277eea6f4981f865ee1713ce219bde73-sac.d.aa.online-metrix.net
-0.0.0.0 ajax.aspnetcdn.com
+# 0.0.0.0 ajax.aspnetcdn.com # is needed for some websites to work. https://github.com/jerryn70/GoodbyeAds/issues/20
 0.0.0.0 psp.pushnami.com
 0.0.0.0 rtgimg.solocpm.com
 0.0.0.0 www.onthe.io
@@ -81028,7 +81028,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adcentre.it-advanced.com
 0.0.0.0 www.cheaptickests.com
 0.0.0.0 www.speedcount.de
-0.0.0.0 data.fotmob.com
+# 0.0.0.0 data.fotmob.com # breaks Fotmob app (football score app) https://github.com/jerryn70/GoodbyeAds/issues/19
 0.0.0.0 api.nrelate.com
 0.0.0.0 tube8vidsotz.dnset.com
 0.0.0.0 ipcyachtingworldprod.122.2o7.net
@@ -86329,7 +86329,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 return.uk.domainnamesales.com
 0.0.0.0 a4159.actonsoftware.com
 0.0.0.0 applovin-asia-rtb.liftoff.io
-0.0.0.0 app4.moovitapp.com
+# 0.0.0.0 app4.moovitapp.com # breaks moovit app https://github.com/jerryn70/GoodbyeAds/issues/16
 0.0.0.0 p.vibrant.co
 0.0.0.0 emoji.uc.cn
 0.0.0.0 bus-offer.com
