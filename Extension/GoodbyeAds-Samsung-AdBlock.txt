@@ -1,0 +1,67 @@
+# GOODBYE ADS
+#
+# Goodbye Ads is Specially Designed for Mobile Ad Protection.
+#
+# Github : https://github.com/jerryn70/GoodbyeAds
+# Telegram : https://t.me/GoodbyeAds
+# XDA : https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269
+#
+# Type : GoodbyeAds Samsung AdBlock
+# Updated On:03-02-2020 
+# Created by:Jerryn70 (XDA Senior Member)
+#
+# LOCAL HOSTS
+#
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Starting..
+0.0.0.0 log-1.samsungacr.com
+0.0.0.0 log-2.samsungacr.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 noticefile.samsungcloudsolution.com
+0.0.0.0 vdterms.samsungcloudsolution.com
+0.0.0.0 acr0.samsungcloudsolution.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+0.0.0.0 targeted-config-test.samsungacr.com
+0.0.0.0 premium-videos.telly.com
+0.0.0.0 www.samsungotn.net
+0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 game.internetat.tv
+0.0.0.0 ns11.whois.co.kr
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 www.samsungotn.net
+0.0.0.0 www.samsungrm.net
+0.0.0.0 log.internetat.tv
+0.0.0.0 sso.internetat.tv
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+0.0.0.0 auth.samsungosp.com
+0.0.0.0 fkp.samsungcloudsolution.com
+0.0.0.0 fkp.samsungcloudsolution.net
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 gld.samsungosp.com
+0.0.0.0 openapi.samsung.com
+0.0.0.0 infolink.pavv.co.kr
+# √Say Goodbye to Ads
