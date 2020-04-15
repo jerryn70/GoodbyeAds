@@ -131,7 +131,7 @@ GoodbyeAds | Advanced protection. | ANY | 76579 | 2M | [GoodbyeAds](https://raw.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE | MIRROR |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|--------|--------|
-GoodbyeAds-Ultra | Premium protection. | ANY | 459225 | 13M | [GoodbyeAds-Ultra](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) |  |
+GoodbyeAds-Ultra | Premium protection. | ANY | 459225 | 13M | [GoodbyeAds-Ultra](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt) |  |
 
 
 
