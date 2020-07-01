@@ -2,7 +2,7 @@
   <img width="460" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds.png">
 </p>
 
-##GoodbyeAds has several lists to chose. Some are specific and some are general purpose. There's no "best" one, but these are general guidelines:
+## GoodbyeAds has several lists to chose. Some are specific and some are general purpose. There's no "best" one, but these are general guidelines:
 
 - Start with the recommended list **`(GoodbyeAds)`**.
 
