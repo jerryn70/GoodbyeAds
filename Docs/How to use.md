@@ -22,10 +22,9 @@ Then Click enable ad blocking from the home menu.
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 ```
 
-Mirror link for Adaway users (fix for Local and Online )
-```
-https://goodbyeads.weebly.com/uploads/1/2/2/1/122145164/goodbyeads.txt
-```
+
+
+
 
 ©️GoodbyeAds
 
