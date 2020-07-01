@@ -2,7 +2,7 @@
   <img width="460" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds.png">
 </p>
 
-###If you're using Chrome, you need to disable data saver and Async DNS. Google uses by default two technologies that interfere with host blocking.
+### If you're using Chrome, you need to disable data saver and Async DNS. Google uses by default two technologies that interfere with host blocking.
 
 1. To disable data saver, tap the three vertical dots in chrome, go to settings, search for "data saver" or "lite mode" and disable it. 
 
