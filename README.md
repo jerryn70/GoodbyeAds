@@ -114,8 +114,8 @@ however that we also have to spend our owns to pay the bills. This is where you 
 
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
-<a href="https://paypal.me/jerryn70" target="_blank"><img width="460" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/Paypal.png"></a>
-<a href="https://liberapay.com/jerryn70/donate" target="_blank"><img width="460" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/LiberaPay.png"></a>
+<a href="https://paypal.me/jerryn70" target="_blank"><img width="360" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/Paypal.png"></a>
+<a href="https://liberapay.com/jerryn70/donate" target="_blank"><img width="360" height="220" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/LiberaPay.png"></a>
 	
 ## Disclaimer
 
