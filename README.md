@@ -94,7 +94,7 @@ Sources each pack uses.
 
 | PACKAGE | SOURCES |  
 |:-------:|:-------:|
-**GoodbyeAds** | *GBA Core + 280blocker, Coinblocker domain list,  Spam 404, Ad-war,  Adguard Mobile Ads & filter, Anti pop ads, Blackbook, Zeus tracker,  Adaway, AnudeepND, Ador's core hosts list, YHosts, Pishing bad sites, Cameleon hosts, Jiffxtremeblock, Userreports, Adguard Mobile adservers, Adguard mobile specefic  & Spyware (Mobile-Host), Easylist Adservers, Easy Privacy, Easylist lite, add.207Net, add.Dead,add.Risk, add.Spam, Notrack trackers,MobileAdTrackers, Snuff hosts, MVPS.ORG, Steven Black Hosts, Someonewhocares, HpHosts, Streaming Ads,  UncheckyAds, , PGL YoYo.org, .*|
+**GoodbyeAds** | *GBA Core + 280blocker., Coinblocker domain list,  Spam 404, Ad-war,  Adguard Mobile Ads & filter, Anti pop ads, Blackbook, Zeus tracker,  Adaway, AnudeepND, Ador's core hosts list, YHosts, Pishing bad sites, Cameleon hosts, Jiffxtremeblock, Userreports, Adguard Mobile adservers, Adguard mobile specefic  & Spyware (Mobile-Host), Easylist Adservers, Easy Privacy, Easylist lite, add.207Net, add.Dead,add.Risk, add.Spam, Notrack trackers,MobileAdTrackers, Snuff hosts, MVPS.ORG, Steven Black Hosts, Someonewhocares, HpHosts, Streaming Ads,  UncheckyAds, , PGL YoYo.org, .*|
 **Xiaomi AdBlock** | *GBA Core + User reports , GBA Community* |
 **LeEco AdBlock** | *GBA Core + User reports , GBA Community* |
 **Samsung AdBlock** | *GBA Core + User reports , GBA Community* |
