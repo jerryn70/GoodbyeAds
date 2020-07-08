@@ -11,7 +11,7 @@
 # Format: hosts
 # Entries: 
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Thu July 06 19:45:20 GMT+05:30 2020
+# Updated: July 08 10:45:20 GMT+05:30 2020
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -107,7 +107,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r1oman.com
 0.0.0.0 parhegno.com
 0.0.0.0 claean-app.xyz
-0.0.0.0 xtrapath1.izatcloud.net
 0.0.0.0 d3w2id5zlqvvik.cloudfront.net
 0.0.0.0 api-eu.bidmachine.io
 0.0.0.0 storiespace.com 
