@@ -9,9 +9,9 @@
 # Title: GoodbyeAds Samsung Adblock Extension
 # Description: Blocks Samsung Ads, Tracking & Analytics.
 # Format: hosts
-# Entries: 83
+# Entries: 82
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Thu July 06 16:32:17 GMT+05:30 2020
+# Updated: Thu July 09 12:32:17 GMT+05:30 2020
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -104,7 +104,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsungtvads.com
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 sso.internetat.tv
-0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 t.email1.samsung.ca
 0.0.0.0 targeted-config-test.samsungacr.com
