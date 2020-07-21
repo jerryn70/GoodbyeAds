@@ -36,7 +36,6 @@
 0.0.0.0 s.ytimg.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
-0.0.0.0 clients1.google.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -49,7 +48,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 clients.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 googleadapis.l.google.com
