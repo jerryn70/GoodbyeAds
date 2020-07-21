@@ -1,0 +1,109 @@
+# GoodbyeAds YouTube Core Bloclist
+#
+# GoodbyeAds is Specially Designed for Mobile Ad Protection.
+#
+# Github : https://github.com/jerryn70/GoodbyeAds
+# Telegram : https://t.me/GoodbyeAds
+# XDA : https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269
+#
+# Type : GoodbyeAds-YouTube-Core Blocklist
+# Updated On: 21-07-2020 
+# Created by:Jerryn70 (XDA Senior Member)
+
+# Stage 8..
+# Phase 1
+r4---sn-cvh7knek.googlevideo.com
+r6---sn-cvh7knez.googlevideo.com
+r4---sn-cvh76nez.googlevideo.com
+r2---sn-cvh76nes.googlevideo.com
+r4---sn-cvh76nes.googlevideo.com
+r6---sn-cvh7knes.googlevideo.com
+r5---sn-cvh76nek.googlevideo.com
+r1---sn-cvh7knek.googlevideo.com
+r4---sn-cvh7knez.googlevideo.com
+r1---sn-cvh7knes.googlevideo.com
+r6---sn-cvh76n7k.googlevideo.com
+r1---sn-cvh76nek.googlevideo.com
+r5---sn-cvh7knez.googlevideo.com
+r5---sn-cvh76nez.googlevideo.com
+r1---sn-cvh76ned.googlevideo.com
+r3---sn-cvh76ned.googlevideo.com
+r3---sn-cvh76nek.googlevideo.com
+r4---sn-cvh76ned.googlevideo.com
+r3---sn-cvh76nes.googlevideo.com
+r2---sn-cvh7knek.googlevideo.com
+r5---sn-cvh7knek.googlevideo.com
+r5---sn-npoeen7y.googlevideo.com
+r5---sn-cvh76ned.googlevideo.com
+r3---sn-cvh76n7d.googlevideo.com
+r3---sn-cvh7knek.googlevideo.com
+r1---sn-cvh76nez.googlevideo.com
+r1---sn-h557sns7.googlevideo.com
+r1---sn-bg8cg-5w0e.googlevideo.com
+r6---sn-h557snlz.googlevideo.com
+r5---sn-h557sns7.googlevideo.com
+r4---sn-h557sns7.googlevideo.com
+r2---sn-h5576nee.googlevideo.com
+r2---sn-cvh76nek.googlevideo.com
+r4---sn-gwpa-jv3s.googlevideo.com
+r1---sn-gwpa-jv3z.googlevideo.com
+r1---sn-h5576nee.googlevideo.com
+r5---sn-h5576nee.googlevideo.com
+r3---sn-h557snlz.googlevideo.com
+r1---sn-h557snl6.googlevideo.com
+r6---sn-h557snl6.googlevideo.com
+r4---sn-gwpa-jv3e.googlevideo.com
+r4---sn-h5576n7k.googlevideo.com
+r1---sn-h557snsl.googlevideo.com
+r4---sn-h557snlz.googlevideo.com
+r3---sn-gwpa-jv3z.googlevideo.com
+r2---sn-cvh76ned.googlevideo.com
+r4---sn-h557snsl.googlevideo.com
+r3---sn-cvh76nez.googlevideo.com
+r2---sn-gwpa-jv3s.googlevideo.com
+r3---sn-h557sns7.googlevideo.com
+r3---sn-h557snsl.googlevideo.com
+r2---sn-h557snlz.googlevideo.com
+r2---sn-gwpa-jv3l.googlevideo.com
+r5---sn-gwpa-jv3s.googlevideo.com
+r2---sn-h5576n7k.googlevideo.com
+r3---sn-h557snl6.googlevideo.com
+r8---sn-gwpa-jv3s.googlevideo.com
+r4---sn-gwpa-jv3z.googlevideo.com
+r2---sn-h557sns7.googlevideo.com
+r6---sn-gwpa-jv3e.googlevideo.com
+r1---sn-gwpa-jv3e.googlevideo.com
+r4---sn-h5576nee.googlevideo.com
+r8---sn-gwpa-jv3z.googlevideo.com
+r7---sn-gwpa-jv3z.googlevideo.com
+r4---sn-h557snl6.googlevideo.com
+r5---sn-h557snl6.googlevideo.com
+r5---sn-h557snlz.googlevideo.com
+r1---sn-h5576n7k.googlevideo.com
+r4---sn-gwpa-jv3l.googlevideo.com
+r3---sn-h5576nee.googlevideo.com
+r3---sn-gwpa-jv3l.googlevideo.com
+r2---sn-h557snsl.googlevideo.com
+r2---sn-h557snl6.googlevideo.com
+r6---sn-gwpa-jv3s.googlevideo.com
+r2---sn-npoe7n7y.googlevideo.com
+r5---sn-h557snsl.googlevideo.com
+r6---sn-gwpa-jv3l.googlevideo.com
+r3---sn-h5576n7k.googlevideo.com
+r5---sn-h5576n7k.googlevideo.com
+r7---sn-gwpa-jv3e.googlevideo.com
+r5---sn-gwpa-jv3z.googlevideo.com
+r2---sn-gwpa-jv3z.googlevideo.com
+r3---sn-gwpa-jv3e.googlevideo.com
+r1---sn-h557snlz.googlevideo.com
+r3---sn-gwpa-jv3s.googlevideo.com
+r5---sn-gwpa-jv3e.googlevideo.com
+r5---sn-gwpa-jv3l.googlevideo.com
+r6---sn-gwpa-jv3z.googlevideo.com
+r8---sn-gwpa-jv3e.googlevideo.com
+r2---sn-gwpa-jv3e.googlevideo.com
+r8---sn-gwpa-jv3l.googlevideo.com
+r7---sn-gwpa-jv3s.googlevideo.com
+r7---sn-gwpa-jv3l.googlevideo.com
+r1---sn-gwpa-jv3s.googlevideo.com 
+√Say Goodbye to Ads.
