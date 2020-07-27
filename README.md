@@ -12,7 +12,7 @@
 [![commit activity](https://img.shields.io/github/commit-activity/y/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
 <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-32CD32.svg"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/updated%20on-15 Jul 2020-9400D3.svg"></a>          
+<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/updated%20on-26 Jul 2020-9400D3.svg"></a>          
 <h1 align="center">GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
 <p align="center">  
   <a href="https://paypal.me/jerryn70" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
@@ -68,8 +68,8 @@ Basic info about all GoodbyeAds packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT | ADBLOCK FILTER |
 |:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
-GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 167620 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
-GoodbyeAds YouTube Adblock | Special List to block YouTube Ads,Trackers & Analytics. | Mobile Phones, Computers, Smart Tv | 97605 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) |
+GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 175000+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
+GoodbyeAds YouTube Adblock | Special List to block YouTube Ads,Trackers & Analytics. | Mobile Phones, Computers, Smart Tv | 97602 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) |
 GoodbyeAds Xiaomi AdBlock | Special List to Block Xiaomi Ads,Trackers & Analytics. | Xiaomi Device | 276 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt) |
 GoodbyeAds Samsung Adblock | Special List to Block Samsung Ads,Trackers & Analytics. | Samsung Mobile/Smart Tv | 83 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
 GoodbyeAds LeEco AdBlock | Special List to Block LeEco Ads,Trackers & Analytics. | LeEco Device | 110 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) |
