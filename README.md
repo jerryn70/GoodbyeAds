@@ -124,4 +124,3 @@ Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you
 ## License
 
 Content of the GoodbyeAds is licensed under a [MIT License](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE).
-

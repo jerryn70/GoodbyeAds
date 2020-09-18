@@ -3302,4 +3302,4 @@
 0.0.0.0 r1---sn-bfinacl6.googlevideo.com
 0.0.0.0 r1---sn-4f1x3oaz.googlevideo.com
 0.0.0.0 r1---sn-ubgshpyn.googlevideo.com
-√Say Goodbye to Ads.
+# √Say Goodbye to Ads.

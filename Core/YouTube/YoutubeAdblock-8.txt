@@ -106,4 +106,4 @@ r8---sn-gwpa-jv3l.googlevideo.com
 r7---sn-gwpa-jv3s.googlevideo.com
 r7---sn-gwpa-jv3l.googlevideo.com
 r1---sn-gwpa-jv3s.googlevideo.com 
-√Say Goodbye to Ads.
+# √Say Goodbye to Ads.
