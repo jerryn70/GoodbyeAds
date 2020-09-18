@@ -9,7 +9,7 @@
 # Title: GoodbyeAds YouTube Adblock Extension
 # Description: Blocks YouTube Ads.
 # Format: hosts
-# Entries: 97,615
+# Entries: 97,616
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
 # Updated: Sep 11 11:17:17 GMT+05:30 2020
 # Source: https://github.com/jerryn70/GoodbyeAds
@@ -71,6 +71,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 r3---sn-apo3qvuoxuxbt-j5pz.googlevideo.com
+0.0.0.0 r7---sn-apo3qvuoxuxbt-j5pz.googlevideo.com
 0.0.0.0 r0---sn-1gi7znel.googlevideo.com
 0.0.0.0 r0---sn-25ge7n7d.googlevideo.com
 0.0.0.0 r0---sn-25ge7n7e.googlevideo.com
