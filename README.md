@@ -108,6 +108,7 @@ Sources each pack uses.
  - [How to Use](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/How%20to%20use.md)
  - [Sources](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Sources.md)
  - [Dead Hosts Removal](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Dead%20host%20removal.md)
+ - [Financial Contributers](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Financial%20Contributers.md)
 
 ## Support
 
