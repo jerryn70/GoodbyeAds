@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="350" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
+  <img width="1000" height="350" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
 </p>
 <br>
      
