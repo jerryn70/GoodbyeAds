@@ -111,8 +111,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 vd.emp.prd.s3.amazonaws.com
 0.0.0.0 vdterms.samsungcloudsolution.com
-0.0.0.0 watchdog-samsung.goodbyeads
-0.0.0.0 watchdog.goodbyeads
 0.0.0.0 www.akcja-samsung.h2g.pl
 0.0.0.0 www.akcjasamsung.e-kei.pl
 0.0.0.0 www.samsungotn.net
