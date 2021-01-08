@@ -49,7 +49,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 az43064.vo.msecnd.net
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config.samsungads.com
-0.0.0.0 coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d2tnx644ijgq6i.cloudfront.net
