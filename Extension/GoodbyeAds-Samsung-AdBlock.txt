@@ -50,7 +50,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config.samsungads.com
-0.0.0.0 coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d2tnx644ijgq6i.cloudfront.net
@@ -114,8 +114,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 vd.emp.prd.s3.amazonaws.com
 0.0.0.0 vdterms.samsungcloudsolution.com
-0.0.0.0 watchdog-samsung.goodbyeads
-0.0.0.0 watchdog.goodbyeads
 0.0.0.0 www.akcja-samsung.h2g.pl
 0.0.0.0 www.akcjasamsung.e-kei.pl
 0.0.0.0 www.samsungotn.net
