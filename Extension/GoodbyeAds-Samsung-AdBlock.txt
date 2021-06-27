@@ -32,7 +32,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 # --------------------------------------------
 #
 # --------------------------------------------
@@ -42,19 +41,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 abtauthprd.samsungcloudsolution.com
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.samsungadhub.com
-0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
 0.0.0.0 ads.kukku.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 akcjasamsung.e-kei.pl
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.samsungknox.com
-0.0.0.0 analytics.samsungknox.com
 0.0.0.0 az43064.vo.msecnd.net
 0.0.0.0 bigdata.ssp.samsung.com
-0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0 config.samsungads.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
@@ -68,7 +63,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 infolink.pavv.co.kr
-0.0.0.0 insights.samsung.com
 0.0.0.0 insights.samsung.com
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -84,7 +78,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log.internetat.tv
 0.0.0.0 musicid.samsungcloudsolution.com
-0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 noticefile.samsungcloudsolution.com
@@ -109,8 +102,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungadhub.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 samsungads.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungeurope.eu.qualtrics.com
 0.0.0.0 samsungindiaelectronics.demdex.net
@@ -126,8 +117,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 vd.emp.prd.s3.amazonaws.com
 0.0.0.0 vdterms.samsungcloudsolution.com
-0.0.0.0 watchdog-samsung.goodbyeads
-0.0.0.0 watchdog.goodbyeads
 0.0.0.0 www.akcja-samsung.h2g.pl
 0.0.0.0 www.akcjasamsung.e-kei.pl
 0.0.0.0 www.samsungotn.net
