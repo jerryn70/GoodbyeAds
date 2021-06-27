@@ -42,7 +42,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.samsungads.com
-0.0.0.0 ads.kukku.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 akcjasamsung.e-kei.pl
 0.0.0.0 analytics-api.samsunghealthcn.com
