@@ -33,7 +33,6 @@
 ||analytic-google.com^
 ||clients.l.google.com^
 ||clients1.google.com^
-||clients6.google.com^
 ||doubleclick.net^
 ||dts.innovid.com^
 ||files.adform.net^
