@@ -11,7 +11,7 @@
 # Format: filter
 # Entries: 97,615
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Nov 01 13:32:31 GMT+05:30 2020
+# Updated: Aug 02 12:32:31 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -33,7 +33,6 @@
 ||analytic-google.com^
 ||clients.l.google.com^
 ||clients1.google.com^
-||clients6.google.com^
 ||doubleclick.net^
 ||dts.innovid.com^
 ||files.adform.net^

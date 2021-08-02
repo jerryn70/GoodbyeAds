@@ -9,9 +9,9 @@
 # Title: GoodbyeAds Xiaomi Adblock Extension
 # Description: Blocks Xiaomi Ads, Tracking & Analytics.
 # Format: hosts
-# Entries: 276
+# Entries: 276+
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Nov 01 13:34:10 GMT+05:30 2020
+# Updated: Aug 02 12:34:10 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -64,6 +64,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.comm.miui.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.d.xiaomi.com
+0.0.0.0 api.g.micloud.xiaomi.net
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.io.mi.com
 0.0.0.0 api.jr.mi.com
@@ -123,6 +124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 0.0.0.0 data.game.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
@@ -187,6 +189,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 max.ad.xiaomi.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 mdap.alipaylog.com
 0.0.0.0 meihua.xiaomi.com
 0.0.0.0 metok.sys.miui.com
@@ -204,6 +207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mishop.cdn.pandora.xiaomi.com
 0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 mitunes.game.xiaomi.com
+0.0.0.0 mitv.tracking.intl.miui.com
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mp.huangye.miui.com
 0.0.0.0 new.api.ad.xiaomi.com
@@ -238,6 +242,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 security.browser.miui.com
 0.0.0.0 sfsapi.micloud.xiaomi.net
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 shenghuo.xiaomi.com
@@ -254,6 +259,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
 0.0.0.0 static.mibi.xiaomi.com
+0.0.0.0 stat.xiaomi.com
 0.0.0.0 stats.xiaomi.com
 0.0.0.0 statusapi.micloud.xiaomi.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -278,6 +284,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trial.api.huangye.miui.com
 0.0.0.0 tv.app.migc.xiaomi.com
 0.0.0.0 tw13b093.sandai.net
@@ -313,7 +320,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhuti.xiaomi.com
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 zx.game.xiaomi.com
-0.0.0.0 zx.game.xiaomi.comstat.xiaomi.com
 # --------------------------------------------
 # √ S A Y  G O O D B Y E  T O  A D S
 # --------------------------------------------

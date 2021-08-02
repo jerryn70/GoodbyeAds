@@ -11,7 +11,7 @@
 # Format: hosts
 # Entries: 3700+
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Nov 01 13:32:22 GMT+05:30 2020
+# Updated: Aug 02 12:32:22 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -854,6 +854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
+0.0.0.0 audio-akp-quic-control-spotify-com.akamaized.net
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-akp.spotify.com.edgesuite.net

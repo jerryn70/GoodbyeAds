@@ -9,9 +9,9 @@
 # Title: GoodbyeAds Database
 # Description: Blocks Ads.Trackers.Analytics.Malware.
 # Format: hosts
-# Entries: 
+# Entries: 130
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Sep 11 11:45:20 GMT+05:30 2020
+# Updated: Aug 02 11:45:20 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -45,11 +45,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.smartnetworld.xyz
 0.0.0.0 a4.tl2
 0.0.0.0 accengage.com 
+0.0.0.0 addefend.com
 0.0.0.0 ads-fa.spotify.com 
 0.0.0.0 ads.kukku.com
 0.0.0.0 ads.thoompunkal.com
 0.0.0.0 analytics.religarehealthinsurance.com
-0.0.0.0 ap-southeast-1.compute.amazonaws.com
 0.0.0.0 api-eu.bidmachine.io
 0.0.0.0 api.branch.io
 0.0.0.0 api.safegraph.com
@@ -65,8 +65,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 bestgore.com
 0.0.0.0 bitcheese.net
 0.0.0.0 blog.nitroxenon.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 cashback-phonepey.co
+0.0.0.0 catchjs.com
 0.0.0.0 cc.naver.jp
+0.0.0.0 cdn.catchjs.com
 0.0.0.0 cdn.cloud.altbalaji.com
 0.0.0.0 cdn.leon.ru
 0.0.0.0 cdn.vidible.tv
@@ -80,10 +84,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 deliveroo.com.sg
 0.0.0.0 delivery.vidible.tv
 0.0.0.0 documentingreality.com
-0.0.0.0 ec2-52-48-178-253.eu-west-1.compute.amazonaws.com
+0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 edge-star-shv-01-bom1.facebook.com
 0.0.0.0 elblogdelnarco.com
-0.0.0.0 eu-west-1.compute.amazonaws.com
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 getmesec.xyz
 0.0.0.0 gorebrasil.com
@@ -95,13 +98,24 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.leon.ru
 0.0.0.0 images.startappservice.com
 0.0.0.0 init.startappexchange.com
-0.0.0.0 izatcloud.net
 0.0.0.0 kaotic.com
 0.0.0.0 leakreality.com
 0.0.0.0 leanplum.com 
 0.0.0.0 li1432-193.members.linode.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 lureunsuccessful.com
 0.0.0.0 m.zhaibei112.top
 0.0.0.0 mailchi.mp
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 miscopy.com
 0.0.0.0 mixtape.moe
 0.0.0.0 mobile9897.drumteam99.live
@@ -118,19 +132,27 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.zkcdn.net
 0.0.0.0 sam4m.com
 0.0.0.0 saspreview.com
+0.0.0.0 sawseveralholepossible.live
 0.0.0.0 schibsted.com
-0.0.0.0 schibsted.io  
+0.0.0.0 schibsted.io
+0.0.0.0 schneevonmorgen.com
+0.0.0.0 securemetrics.apple.com
 0.0.0.0 sgbid.prod.sift.co
 0.0.0.0 sickjunk.com
 0.0.0.0 sift-campaign-creatives.s3.amazonaws.com 
 0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
 0.0.0.0 soma.smaata.net
 0.0.0.0 speaker-news.com
+0.0.0.0 spherediary.com
 0.0.0.0 sqm.woniu.com
 0.0.0.0 srv1.xbext.com
 0.0.0.0 srv2.xbext.com
+0.0.0.0 srafcloud.com
 0.0.0.0 sslclick.union.ucweb.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storiespace.com 
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 sync2ad.com 
 0.0.0.0 thepinsta.com
 0.0.0.0 theync.com

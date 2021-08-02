@@ -9,9 +9,9 @@
 # Title: GoodbyeAds Samsung Adblock Extension
 # Description: Blocks Samsung Ads, Tracking & Analytics.
 # Format: hosts
-# Entries: 83
+# Entries: 97+
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Nov 01 13:35:27 GMT+05:30 2020
+# Updated: Aug 02 12:35:27 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
@@ -32,7 +32,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 # --------------------------------------------
 #
 # --------------------------------------------
@@ -42,11 +41,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 abtauthprd.samsungcloudsolution.com
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.samsungadhub.com
-0.0.0.0 ads.kukku.com
+0.0.0.0 ad.samsungads.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 akcjasamsung.e-kei.pl
+0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
@@ -61,6 +62,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 insights.samsung.com
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcprd2.samsungcloudsolution.net
@@ -75,6 +77,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log.internetat.tv
 0.0.0.0 musicid.samsungcloudsolution.com
+0.0.0.0 nmetrics.samsung.com
 0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 noticefile.samsungcloudsolution.com
 0.0.0.0 ns11.whois.co.kr
@@ -86,6 +89,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.w-x.co
 0.0.0.0 s3-config.samsungacr.com
 0.0.0.0 samsung-akcja.e-kei.pl
+0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsung-klimatyzacja.pl
 0.0.0.0 samsung-produkcja.24.eu
@@ -103,6 +107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsungmsc.d1.sc.omtrdc.net
 0.0.0.0 samsungtvads.com
 0.0.0.0 samsungus.btttag.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 sso.internetat.tv
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 t.email1.samsung.ca

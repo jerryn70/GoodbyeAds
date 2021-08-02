@@ -11,7 +11,7 @@
 # Format: hosts
 # Entries: 110
 # License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# Updated: Nov 01 13:36:17 GMT+05:30 2020
+# Updated: Aug 02 11:36:17 GMT+05:30 2021
 # Source: https://github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
