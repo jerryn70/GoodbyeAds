@@ -1,0 +1,137 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds LeEco Adblock Extension
+# Description: Blocks LeEco Ads, Tracking & Analytics.
+# Format: hosts
+# Entries: 110
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Aug 21 11:36:17 GMT+05:30 2021
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# L O C A L  H O S T
+# --------------------------------------------
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# --------------------------------------------
+#
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# --------------------------------------------
+0.0.0.0 204.scloud.letv.com
+0.0.0.0 activity.tuifish.com
+0.0.0.0 ads.kukku.com
+0.0.0.0 ads1.lfengmobile.com
+0.0.0.0 agnes.scloud.lfengmobile.com
+0.0.0.0 api.hdtv.letv.com
+0.0.0.0 api.itv.letv.com
+0.0.0.0 api.live.letv.com
+0.0.0.0 api.platform.cp21.ott.cibntv.net
+0.0.0.0 api.platform.letv-epg.wasu.tv
+0.0.0.0 api.platform.letv.com
+0.0.0.0 api.platform.video123456.com
+0.0.0.0 api.platform.vmoters.com
+0.0.0.0 api.zhifu.letv.com
+0.0.0.0 apk.scloud.lfengmobile.com
+0.0.0.0 appdistapi.scloud.le.com
+0.0.0.0 backup.scloud.letv.com
+0.0.0.0 beta.ads1.lfengmobile.com
+0.0.0.0 beta.whitelist.scloud.lfengmobile.com
+0.0.0.0 browser.scloud.letv.com
+0.0.0.0 c.isdspeed.qq.com
+0.0.0.0 calendar.scloud.letv.com
+0.0.0.0 cloud.le.com
+0.0.0.0 com.thoughtworks.xstream
+0.0.0.0 control.scloud.letv.com
+0.0.0.0 custom.scloud.letv.com
+0.0.0.0 diff.scloud.letv.com
+0.0.0.0 dnm-cn.scloud.letv.com
+0.0.0.0 emoticon.scloud.letv.com
+0.0.0.0 frame.scloud.letv.com
+0.0.0.0 g3.letv.cn
+0.0.0.0 g3.letv.com
+0.0.0.0 g3cn.cp21.ott.cibntv.net
+0.0.0.0 g3cn.letv-epg.wasu.tv
+0.0.0.0 g3cn.video123456.com
+0.0.0.0 g3com.cp21.ott.cibntv.net
+0.0.0.0 g3com.video123456.com
+0.0.0.0 g3com.vmoters.com
+0.0.0.0 i.le.com
+0.0.0.0 image.scloud.letv.com
+0.0.0.0 levip.scloud.letv.com
+0.0.0.0 lock.scloud.letv.com
+0.0.0.0 m-accounts.scloud.letv.com
+0.0.0.0 m-device.scloud.letv.com
+0.0.0.0 m-plugin.scloud.letv.com
+0.0.0.0 m-upgrade.scloud.letv.com
+0.0.0.0 m-upgrage.scloud.lfengmobile.com
+0.0.0.0 m-xpage.scloud.letv.com
+0.0.0.0 mail.scloud.letv.com
+0.0.0.0 mazu.3g.qq.com
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 misc.wcd.qq.com
+0.0.0.0 music.scloud.letv.com
+0.0.0.0 note.scloud.letv.com
+0.0.0.0 ota.scloud.letv.com
+0.0.0.0 pan.scloud.letv.com
+0.0.0.0 photo.scloud.letv.com
+0.0.0.0 pmir.3g.qq.com
+0.0.0.0 push.scloud.lfengmobile.com
+0.0.0.0 remote.scloud.letv.com
+0.0.0.0 ryfsh.ghtfd.net
+0.0.0.0 s.webp2p.cp21.ott.cibntv.net
+0.0.0.0 s.webp2p.letv-epg.wasu.tv
+0.0.0.0 s.webp2p.letv.com
+0.0.0.0 s.webp2p.video123456.com
+0.0.0.0 s.webp2p.vmoters.com
+0.0.0.0 s3.lecloud.com
+0.0.0.0 s3proxy.scloud.letv.com
+0.0.0.0 sdk.e.qq.com
+0.0.0.0 setting.scloud.letv.com
+0.0.0.0 share.scloud.letv.com
+0.0.0.0 sticker.scloud.letv.com
+0.0.0.0 sync.3g.qq.com
+0.0.0.0 test.push.platform.letv.com
+0.0.0.0 test.tvapi.letv.com
+0.0.0.0 theme.scloud.le.com
+0.0.0.0 tools.3g.qq.com
+0.0.0.0 upgrade.itv.cp21.ott.cibntv.net
+0.0.0.0 upgrade.itv.letv.com
+0.0.0.0 usercenter.scloud.letv.com
+0.0.0.0 vcall-scloud.cp21.ott.cibntv.net
+0.0.0.0 wallet.scloud.letv.com
+0.0.0.0 wallpaper.scloud.letv.com
+0.0.0.0 watchdog.leeco.goodbyeads
+0.0.0.0 watchdog.goodbyeads
+0.0.0.0 whitelist.scloud.lfengmobile.com
+0.0.0.0 wspeed.qq.com
+0.0.0.0 xfeedback.scloud.lfengmobile.com
+0.0.0.0 xsquare.scloud.letv.com
+0.0.0.0 yuanxian.letv.com
+0.0.0.0 yuanxian.scloud.letv.com
+0.0.0.0 yun.lvehaiser.com
+0.0.0.0 yun.tuitiger.com
+0.0.0.0 zhifu.letv.com
+# --------------------------------------------
+# √ S A Y  G O O D B Y E  T O  A D S
+# --------------------------------------------
