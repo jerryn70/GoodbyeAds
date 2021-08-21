@@ -79,7 +79,7 @@ GoodbyeAds Spotify AdBlock | Special List to Block Spotify Ads. | Any Device | 3
 
 ***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
-***Android:*** For non-rooted devices, GoodbyeAds can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/),or [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), or  [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) or [`Nebulo`](https://nebulo.app/source) all are free and open-source ad-blockers.     
+***Android:*** For non-rooted devices, GoodbyeAds can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
      
 ***Android (rooted):*** For rooted device, GoodbyeAds can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
      
