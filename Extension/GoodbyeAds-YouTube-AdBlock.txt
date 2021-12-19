@@ -49,7 +49,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.youtube.com
 0.0.0.0 akamaitechnologies.com
 0.0.0.0 analytic-google.com
-0.0.0.0 clients.l.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 doubleclick.net
 0.0.0.0 dts.innovid.com
