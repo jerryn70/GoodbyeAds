@@ -14,14 +14,16 @@
 <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/updated%20on-22 Jun 2022-9400D3.svg"></a>          
 <h1 align="center">GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
-<p align="center">  
+<p align="center">
   <a href="https://paypal.me/jerryn70" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://liberapay.com/jerryn70/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
 
 <p align="center">
-  <strong>Blocks Ads.Trackers.Analytics.Malware</strong>
+  <strong>Blocks Ads, Analytics, & Malware</strong>
 </p>
 
 <p align="center">
