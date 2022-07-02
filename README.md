@@ -26,7 +26,7 @@
   <strong>Blocks Ads, Analytics, & Malware</strong>
 </p>
 
-<p align="center">
+<div align="center">
   <h3>
     <a href="https://t.me/GoodbyeAds">
       Telegram
@@ -40,7 +40,7 @@
       Website
     </a>
   </h3>
-</p>
+</div>
 
 ## Features
 
