@@ -88,6 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 elblogdelnarco.com
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 getmesec.xyz
+0.0.0.0 goodbyeads.weebly.com
 0.0.0.0 gorebrasil.com
 0.0.0.0 goregrish.com
 0.0.0.0 graph.facebook.com 
