@@ -179,7 +179,7 @@ If you do not see it, then you are using one of my lists (or a list that include
 
 ## Connect with us
 
-📫 **goodbyeads@tutamail.com**
+📫 **Email id will be updated soon**
 
 ## Support
 
