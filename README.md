@@ -11,7 +11,7 @@
    <a href="#" > 
     <img src="https://img.shields.io/github/last-commit/jerryn70/GoodbyeAds?label=Last%20Updated" alt="last updated" >
    <a/>
-   <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-32CD32.svg"></a>
+   <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-ff69b4.svg"></a>
    <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
    <a href="https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE" > 
     <img src="https://img.shields.io/github/license/jerryn70/GoodbyeAds?label=License&color=blueviolet" alt="license" >
