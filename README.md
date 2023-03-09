@@ -202,7 +202,7 @@ This project is also available in many host file aggregators and other services.
   <a/>
   &nbsp; &nbsp;
   <a href="https://forum.xda-developers.com/t/keweondns-now-with-improved-certificate-ios-mac-android.3681139/" > 
-    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/keweon.png" width="160" height="100" alt="keweon" >
+    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/keweon.png" width="150" height="100" alt="keweon" >
   <a/>
   &nbsp; &nbsp;
   <a href="https://rethinkdns.com/" > 
