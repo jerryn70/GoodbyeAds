@@ -243,6 +243,6 @@ Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you
 
 
 
-<div align="center">
+<p align="center">
   <strong>Made with ❤️ in Kerala 🌴</strong>
-</div>
+</p>
