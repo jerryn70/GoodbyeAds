@@ -1,8 +1,6 @@
 <div align="center">
   <img width="400" height="400" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
 </div>
-&nbsp;
-&nbsp;
 
 
    <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
@@ -44,10 +42,6 @@
 
 <div align="center">
   <h3>
-  <a href="https://blockads.fivefilters.org/">
-      Check
-    </a>
-    <span> | </span>
     <a href="https://t.me/GoodbyeAds">
       Telegram
     </a>
