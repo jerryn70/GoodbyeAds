@@ -5,7 +5,7 @@
 &nbsp;
 
 
-<a href="https://github.com/jerryn70/GoodbyeAds/release" > 
+   <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
     <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
    <a/>
    <a href="#" > 
@@ -22,8 +22,8 @@
   <a href="https://github.com/jerryn70/GoodbyeAds/graphs/contributors" > 
     <img src="https://img.shields.io/github/contributors/jerryn70/GoodbyeAds?label=Contributors&color=yellow" alt="contributors" >
   <a/>
-<a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
+   <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
+   <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
 
 
 <div align="center">
@@ -171,7 +171,7 @@ This host file can be used on any device including Android, iOS, Linux, MacOS, r
 | GoodbyeAds | `https://blitz.ahadns.com/1:17` |
 
 
-## <ins>Are you using GoodbyeAds?</ins>
+## <ins>Validation</ins>
 
 Below is an image that says 'Not Blocking' that is blocked in all of my lists.
 If you see it, then you are not using one of my lists.
@@ -202,7 +202,7 @@ This project is also available in many host file aggregators and other services.
   <a/>
   &nbsp; &nbsp;
   <a href="https://forum.xda-developers.com/t/keweondns-now-with-improved-certificate-ios-mac-android.3681139/" > 
-    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/keweon.png" width="150" height="100" alt="keweon" >
+    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/keweon.png" width="160" height="100" alt="keweon" >
   <a/>
   &nbsp; &nbsp;
   <a href="https://rethinkdns.com/" > 
