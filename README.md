@@ -184,7 +184,7 @@ If you do not see it, then you are using one of my lists (or a list that include
 ## <ins>Featured in:</ins>
 This project is also available in many host file aggregators and other services. 
 
-<div align="center"> 
+<p align="center"> 
   <a href="https://nextdns.io/" > 
     <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/nextdns-logo.png" width="190" height="55" alt="NextDNS logo" >
   <a/>
@@ -212,7 +212,7 @@ This project is also available in many host file aggregators and other services.
   <a href="https://blokada.org/" > 
     <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/blokada-logo.png" width="160" height="70" alt="Blokada logo" >
   <a/>
-</div>
+</p>
            
                 
 ## <ins>Documentation</ins>
