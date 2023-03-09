@@ -213,7 +213,7 @@ This project is also available in many host file aggregators and other services.
     <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/blokada-logo.png" width="160" height="70" alt="Blokada logo" >
   <a/>
 </div>
-<br           
+           
                 
 ## <ins>Documentation</ins>
 
