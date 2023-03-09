@@ -198,11 +198,11 @@ This project is also available in many host file aggregators and other services.
   <a/>
   &nbsp; &nbsp;
   <a href="https://www.zenz-solutions.de/personaldnsfilter-wp/" > 
-    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/PersonalDNSfilter.jpeg" width="170" height="60" alt="PersonalDNSfilter" >
+    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/PersonalDNSfilter.jpeg" width="170" height="100" alt="PersonalDNSfilter" >
   <a/>
   &nbsp; &nbsp;
-  <a href="https://oisd.nl/" > 
-    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/oisd.nl-logo.png" width="160" height="60" alt="oisd.nl logo" >
+  <a href="https://forum.xda-developers.com/t/keweondns-now-with-improved-certificate-ios-mac-android.3681139/" > 
+    <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/keweon.png" width="160" height="100" alt="keweon" >
   <a/>
   &nbsp; &nbsp;
   <a href="https://rethinkdns.com/" > 
