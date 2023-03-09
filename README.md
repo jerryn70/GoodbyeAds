@@ -66,7 +66,7 @@
   </h3>
 </div>
 
-## Features
+## <ins>Features</ins>
 
 - __small in size:__ The complete host list size is less then 5mb.
 - __Host file:__ Based on `hosts` file, all the bad domains are blocked with `0.0.0.0`
@@ -79,7 +79,7 @@
 - __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
 - __Mirror:__ All the files are available in mirror which provides `Last-Modified` header.
 
-## Who can use this file?                 
+## <ins>Who can use this file?</ins>                 
        
  These host files for Unix-like systems, the list contain domains that serve ads, tracking scripts and malware after adding this list to your setup, it prevents your system from connecting to them. Host file preferred over DNS so if a domain name is resolved by the hosts file, the request never leaves your computer.
 
