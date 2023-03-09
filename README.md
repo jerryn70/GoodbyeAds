@@ -24,7 +24,7 @@
   <a/>
 <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
-</div>
+
 
 <div align="center">
   <h1>GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
@@ -213,7 +213,7 @@ This project is also available in many host file aggregators and other services.
     <img src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/blokada-logo.png" width="160" height="70" alt="Blokada logo" >
   <a/>
 </div>
-<br />          
+<br           
                 
 ## <ins>Documentation</ins>
 
