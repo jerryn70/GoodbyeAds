@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-<div align="center">
+
 <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
     <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
    <a/>
