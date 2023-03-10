@@ -1,0 +1,186 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds Database
+# Description: Blocks Ads.Trackers.Analytics.Malware.
+# Format: hosts
+# Entries: 130*
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Mar 10 11:45:20 GMT+05:30 2023
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# L O C A L  H O S T
+# --------------------------------------------
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# --------------------------------------------
+#
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# --------------------------------------------
+0.0.0.0 18videofullhd.info
+0.0.0.0 a.395bc5eaa00405ae7569b258246f23c4.com
+0.0.0.0 a.a60b4ddd0c257fb3f1bb059bcbc42862.com
+0.0.0.0 a.f6591f7b0fcba816ef1d195e7ffd1e6c.com
+0.0.0.0 a.smartnetworld.xyz
+0.0.0.0 a4.tl2
+0.0.0.0 accengage.com 
+0.0.0.0 addefend.com
+0.0.0.0 ads-fa.spotify.com 
+0.0.0.0 ads.kukku.com
+0.0.0.0 ads.thoompunkal.com
+0.0.0.0 analytics.religarehealthinsurance.com
+0.0.0.0 api-eu.bidmachine.io
+0.0.0.0 api.branch.io
+0.0.0.0 api.safegraph.com
+0.0.0.0 api.simplisafe.com
+0.0.0.0 api.zwizzarmyknife.com
+0.0.0.0 app-measurement.com 
+0.0.0.0 app.adjust.com
+0.0.0.0 ati-host.net
+0.0.0.0 audio2.spotify.com
+0.0.0.0 azmobilestore.co
+0.0.0.0 batch.com 
+0.0.0.0 bestgore.com
+0.0.0.0 bitcheese.net
+0.0.0.0 blog.nitroxenon.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 cashback-phonepey.co
+0.0.0.0 catchjs.com
+0.0.0.0 cc.naver.jp
+0.0.0.0 cdn.catchjs.com
+0.0.0.0 cdn.cloud.altbalaji.com
+0.0.0.0 cdn.leon.ru
+0.0.0.0 cdn.vidible.tv
+0.0.0.0 claean-app.xyz
+0.0.0.0 crashlogs.woniu.com
+0.0.0.0 d1.cdn.adbetnet.com
+0.0.0.0 d3w2id5zlqvvik.cloudfront.net
+0.0.0.0 databerries.com 
+0.0.0.0 deathaddict.com
+0.0.0.0 deathandreality.com
+0.0.0.0 deliveroo.com.sg
+0.0.0.0 delivery.vidible.tv
+0.0.0.0 documentingreality.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 edge-star-shv-01-bom1.facebook.com
+0.0.0.0 elblogdelnarco.com
+0.0.0.0 f5v1x3kgv5.com
+0.0.0.0 getmesec.xyz
+0.0.0.0 goodbyeads.weebly.com
+0.0.0.0 gorebrasil.com
+0.0.0.0 goregrish.com
+0.0.0.0 graph.facebook.com 
+0.0.0.0 gstatic.kiwibrowser.com
+0.0.0.0 haggler-doubleclick067-ap-ne1-ec2.liftoff.io
+0.0.0.0 horriblevideos.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 images.leon.ru
+0.0.0.0 images.startappservice.com
+0.0.0.0 init.startappexchange.com
+0.0.0.0 kaotic.com
+0.0.0.0 leakreality.com
+0.0.0.0 leanplum.com 
+0.0.0.0 li1432-193.members.linode.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 lureunsuccessful.com
+0.0.0.0 m.zhaibei112.top
+0.0.0.0 mailchi.mp
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 miscopy.com
+0.0.0.0 mixtape.moe
+0.0.0.0 mobile9897.drumteam99.live
+0.0.0.0 movip.wps.com  
+0.0.0.0 mxtsr.com
+0.0.0.0 ogrish.tv
+0.0.0.0 p-v2.presage.io 
+0.0.0.0 pagead46.l.doubleclick.net 
+0.0.0.0 parhegno.com
+0.0.0.0 phonepe-cashback.xyz
+0.0.0.0 pogger.cloudmobi.net
+0.0.0.0 pushid-noneu.truecaller.com
+0.0.0.0 r1oman.com
+0.0.0.0 s.zkcdn.net
+0.0.0.0 sam4m.com
+0.0.0.0 saspreview.com
+0.0.0.0 sawseveralholepossible.live
+0.0.0.0 schibsted.com
+0.0.0.0 schibsted.io
+0.0.0.0 schneevonmorgen.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 sgbid.prod.sift.co
+0.0.0.0 sickjunk.com
+0.0.0.0 sift-campaign-creatives.s3.amazonaws.com 
+0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
+0.0.0.0 soma.smaata.net
+0.0.0.0 speaker-news.com
+0.0.0.0 spherediary.com
+0.0.0.0 sqm.woniu.com
+0.0.0.0 srv1.xbext.com
+0.0.0.0 srv2.xbext.com
+0.0.0.0 srafcloud.com
+0.0.0.0 sslclick.union.ucweb.com
+0.0.0.0 static.timelybills.app
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 storiespace.com 
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 sync2ad.com 
+0.0.0.0 thepinsta.com
+0.0.0.0 theync.com
+0.0.0.0 trck.unixmobi.com
+0.0.0.0 trfmxt.com
+0.0.0.0 truecaller-marketing.s3-eu-west-1.amazonaws.com
+0.0.0.0 ultimedia.com
+0.0.0.0 uselnk.com
+0.0.0.0 v.jwpcdn.com 
+0.0.0.0 vectaury.io
+0.0.0.0 veirregnant.club
+0.0.0.0 videos.vidible.tv
+0.0.0.0 vidmax.com
+0.0.0.0 watchdog.goodbyeads
+0.0.0.0 weborama.net
+0.0.0.0 www.mysam.sg
+0.0.0.0 xml.adbetnet.com
+0.0.0.0 yaarlnk.com
+0.0.0.0 api.teslacoilapps.com
+0.0.0.0 accounts-analyticsapp.paytm.com
+0.0.0.0 sponsor.ajay.app
+0.0.0.0 ads-partner-noneu.truecaller.com
+0.0.0.0 ads-segment-profile-noneu.truecaller.com
+0.0.0.0 notifications5-noneu.truecaller.com
+0.0.0.0 psync.tatadigital.com
+0.0.0.0 survey-noneu.truecaller.com
+# --------------------------------------------
+# √ S A Y  G O O D B Y E  T O  A D S
+# --------------------------------------------
