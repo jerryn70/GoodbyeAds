@@ -1,0 +1,127 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds-Samsung-AdBlock
+# Description: Blocks Samsung Ads,Trackers.
+# Format: Hosts
+# Entries: 103
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Sep 30 10:32:31 GMT+05:30 2023
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# --------------------------------------------   
+0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
+0.0.0.0 abtauthprd.samsungcloudsolution.com
+0.0.0.0 acr0.samsungcloudsolution.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ad.samsungads.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 akcjasamsung.e-kei.pl
+0.0.0.0 amauthprd.samsungcloudsolution.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 api-hub.samsungyosemite.com
+0.0.0.0 apu.samsungelectronics.com
+0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 bpu.samsungelectronics.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 connecttv.pelmorex.com
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+0.0.0.0 events.samsungads.com
+0.0.0.0 fkp.samsungcloudsolution.com
+0.0.0.0 fkp.samsungcloudsolution.net
+0.0.0.0 game.internetat.tv
+0.0.0.0 gld.samsungosp.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 insights.samsung.com
+0.0.0.0 invitation.samsungiotcloud.com
+0.0.0.0 kpu.samsungelectronics.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 lcprd2.samsungcloudsolution.net
+0.0.0.0 lockersamsungs8.r.xoxknct.com
+0.0.0.0 lockersamsungs8.s.xoxknct.com
+0.0.0.0 log-1.samsungacr.com
+0.0.0.0 log-2.samsungacr.com
+0.0.0.0 log-3.samsungacr.com
+0.0.0.0 log-4.adclerks.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 log.internetat.tv
+0.0.0.0 musicid.samsungcloudsolution.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 noticefile.samsungcloudsolution.com
+0.0.0.0 ns11.whois.co.kr
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 openapi.samsung.com
+0.0.0.0 osb-krsvc.samsungqbe.com
+0.0.0.0 osb-ussvc.samsungqbe.com
+0.0.0.0 osb.samsungqbe.com
+0.0.0.0 otn.samsungcloudcdn.com
+0.0.0.0 pipeaota.com
+0.0.0.0 premium-videos.telly.com
+0.0.0.0 rd.samsungadhub.com
+0.0.0.0 s.w-x.co
+0.0.0.0 s3-config.samsungacr.com
+0.0.0.0 samsung-akcja.e-kei.pl
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsung-germany.demdex.net
+0.0.0.0 samsung-klimatyzacja.pl
+0.0.0.0 samsung-produkcja.24.eu
+0.0.0.0 samsung-stop.24.eu
+0.0.0.0 samsung.24.eu
+0.0.0.0 samsung.apps.linkpc.net
+0.0.0.0 samsung.demdex.net
+0.0.0.0 samsung.yaload.ru
+0.0.0.0 samsung3.solution.weborama.fr
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungeurope.eu.qualtrics.com
+0.0.0.0 samsungindiaelectronics.demdex.net
+0.0.0.0 samsungmsc.d1.sc.omtrdc.net
+0.0.0.0 samsungtvads.com
+0.0.0.0 samsungus.btttag.com
+0.0.0.0 sca.samsung.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 sso.internetat.tv
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+0.0.0.0 t.email1.samsung.ca
+0.0.0.0 targeted-config-test.samsungacr.com
+0.0.0.0 test.samsungrm.net
+0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 vd.contents.prod.eu.s3.amazonaws.com
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+0.0.0.0 vdterms.samsungcloudsolution.com
+0.0.0.0 www.akcja-samsung.h2g.pl
+0.0.0.0 www.akcjasamsung.e-kei.pl
+0.0.0.0 www.samsungotn.net
+0.0.0.0 www.samsungrm.net
+0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 ypu.samsungelectronics.com
+0.0.0.0 zn3xeosihqjqivq8l-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0 zn6lro0hnnzevxtpz-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0 zn8a1gd8ckeekprrz-samsunggdc.siteintercept.qualtrics.com
+0.0.0.0 zpu.samsungelectronics.com
+# --------------------------------------------
+# √ S A Y  G O O D B Y E  T O  A D S
+# --------------------------------------------
