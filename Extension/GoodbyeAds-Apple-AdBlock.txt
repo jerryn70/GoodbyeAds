@@ -1,0 +1,53 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds-Apple-AdBlock
+# Description: Blocks Apple(IOS)Ads,Trackers.
+# Format: Hosts
+# Entries: 29
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Jan 21 10:32:31 GMT+05:30 2024
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# -------------------------------------------- 
+0.0.0.0 acfeedbackws.icloud.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 feedbackws.icloud.com
+0.0.0.0 iad.apple.com
+0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iadmoo.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadworkbench.apple.com
+0.0.0.0 launch.apple.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemvt.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
+# --------------------------------------------
+# √ S A Y  G O O D B Y E  T O  A D S
+# --------------------------------------------
