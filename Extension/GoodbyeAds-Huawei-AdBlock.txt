@@ -1,0 +1,97 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds-Huawei-AdBlock
+# Description: Blocks Huawei Ads,Trackers.
+# Format: Hosts
+# Entries: 73
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Jan 21 10:32:31 GMT+05:30 2024
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# --------------------------------------------  
+0.0.0.0 ad-dra.dt.dbankcloud.com
+0.0.0.0 ad-dre.dt.dbankcloud.com
+0.0.0.0 ad-drru.dt.dbankcloud.com
+0.0.0.0 adx-dra.op.dbankcloud.com
+0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 adx-drcn.op.dbankcloud.cn
+0.0.0.0 adx-dre.op.dbankcloud.com
+0.0.0.0 adx-dre.op.dbankcloud.com.edgekey.net
+0.0.0.0 adx-dre.op.hicloud.com
+0.0.0.0 adx-drru.op.dbankcloud.com
+0.0.0.0 aiclean.us.cloud.360safe.com
+0.0.0.0 atlas-emui-drcn.hicloud.com
+0.0.0.0 au.ff.avast.com
+0.0.0.0 configserver-dra.platform.hicloud.com
+0.0.0.0 data.hicloud.com
+0.0.0.0 datacollector-dra.dt.dbankcloud.cn
+0.0.0.0 datacollector-dra.dt.hicloud.com
+0.0.0.0 datacollector-drcn.dt.dbankcloud.cn
+0.0.0.0 datacollector-drcn.dt.hicloud.com
+0.0.0.0 datacollector-dre.dt.dbankcloud.cn
+0.0.0.0 datacollector-dre.dt.hicloud.com
+0.0.0.0 datacollector-drru.dt.dbankcloud.ru
+0.0.0.0 datacollector-drru.dt.hicloud.com
+0.0.0.0 dnkeeper.dbankcloud.com
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 dnkeeper.platform.dbankcloud.cn
+0.0.0.0 events-dra.op.hicloud.com
+0.0.0.0 feedback-dre.platform.hicloud.com
+0.0.0.0 geo.hicloud.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.hicloud.com
+0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 healthdata.hicloud.com
+0.0.0.0 hisearch-dra.dt.dbankcloud.com
+0.0.0.0 huawei.facebook.com
+0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice-dra.platform.hicloud.com
+0.0.0.0 logservice-dre.platform.dbankcloud.cn
+0.0.0.0 logservice-dre.platform.hicloud.com
+0.0.0.0 logservice-drru.dt.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logtransform.hicloud.com
+0.0.0.0 mepodownload.mediatek.com
+0.0.0.0 metrics-dra.dt.dbankcloud.cn
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics-drcn.dt.hicloud.com
+0.0.0.0 metrics-dre.data.dbankcloud.cn
+0.0.0.0 metrics-dre.dt.dbankcloud.cn
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.dt.dbankcloud.cn
+0.0.0.0 metrics.dt.hicloud.com
+0.0.0.0 metrics1-drcn.dt.dbankcloud.cn
+0.0.0.0 metrics1.data.dbankcloud.cn
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 metrics5.dt.dbankcloud.ru
+0.0.0.0 metrics6.dt.hicloud.com
+0.0.0.0 mgepodownload.mediatek.com
+0.0.0.0 mvconf.cloud.360safe.com
+0.0.0.0 openlocation-drcn.platform.dbankcloud.com
+0.0.0.0 opsdata.hicloud.com
+0.0.0.0 osscach2023.hicloud.tw
+0.0.0.0 sdkserver-dra.op.hicloud.com
+0.0.0.0 servicesupport.hicloud.com
+0.0.0.0 streamback.ff.avast.com
+0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
+# --------------------------------------------
+# √ S A Y  G O O D B Y E  T O  A D S
+# --------------------------------------------
