@@ -92,7 +92,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 documentingreality.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 edge-star-shv-01-bom1.facebook.com
-0.0.0.0 edge.xero.com
 0.0.0.0 elblogdelnarco.com
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 getmesec.xyz
