@@ -22,7 +22,7 @@
   <a/>
    <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
    <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a> 
-   <a href="#"><img src="https://img.shields.io/static/v1?label=Launched:&message=%20years%20ago&color=yellowgreen&style=plastic%22"></a>
+   <a href="#"><img src="https://img.shields.io/static/v1?label=Launched:&message=6%20years%20ago&color=purple&style=plastic%22"></a>
 
 
 <div align="center">
